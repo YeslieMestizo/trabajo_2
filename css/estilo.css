@@ -37,6 +37,14 @@
     z-index: 2;
 }
 
+.moon {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    background: white;
+    -webkit-border-radius: 150%;
+    border-radius: 150%;
+}
 
 .tree, .tree-three {
     position: absolute;
