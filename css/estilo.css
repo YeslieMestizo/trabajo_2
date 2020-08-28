@@ -36,3 +36,12 @@
     border-bottom: 180px solid white;
     z-index: 2;
 }
+
+.moon {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    background: white;
+    -webkit-border-radius: 150%;
+    border-radius: 150%;
+}
